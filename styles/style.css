@@ -1,0 +1,32 @@
+*{
+    margin:0px;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lobster Two', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+body{
+   
+   margin: 0px;
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   background-size: cover;
+    
+}
+.banner-title{
+    text-align:right;
+    padding: 150px 150px 15px 600px;
+    font-size: 45px;
+    font-weight: 700;
+}
+.banner-description{
+    text-align:right;
+    padding: 0px 150px 15px 800px;
+    font-size: 25px;
+    font-weight: 400;
+}
+.button{
+    text-align: right;
+    padding: 0px 150px 15px 800px;
+}
