@@ -12,7 +12,7 @@
  
   background-image: url(../images/banner/editedbanner1.png);
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment:local;
   background-size: cover;
   padding: 210px 150px 180px 150px;
   
@@ -53,4 +53,34 @@ border: 0;
   text-align: right;
   padding-left: 650px;
   position:sticky;
+  
+}
+
+.second-page{
+  margin: 100px;
+  display:flex;
+  justify-content: center;
+  gap:70px;
+  background-color: #f1a922;
+}
+.written-part{
+  margin:50px;
+  padding: 80px 50px 50px 0px;
+}
+.title{
+  padding-top: 10px;
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+.description{
+  padding-right: 30px;
+  padding-bottom: 15px;
+}
+.picture{
+  
+  padding-left: 50px;
+  padding-top: 20px;
+}
+.icon{
+  display: flex;
 }
