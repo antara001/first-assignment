@@ -61,7 +61,7 @@ border: 0;
   display:flex;
   justify-content: center;
   gap:70px;
-  background-color: #f1a922;
+  background-color: #faf9f8;
 }
 .written-part{
   margin:50px;
@@ -79,7 +79,7 @@ border: 0;
 .picture{
   
   padding-left: 50px;
-  padding-top: 20px;
+  padding-top: 53px;
 }
 .icon{
   display: flex;
